@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="286b9d2d-0020-4dbf-8566-57db39f4464a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/basics/area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basics/wish.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/alternate_values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/average.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/average_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/avg_5_num.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/bmi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/char_first_pos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/char_freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/char_positions_in_str.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/common_chars.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/common_chars_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/compare_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/even_nums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/filter_prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/first_letter_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/largest_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/largest_number_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/map_count_upper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/names_start_end_a.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/net_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/perfect_1_1000.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/perfect_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/print_names_in_reverse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/print_names_in_reverse_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/print_str_reverse_vertical.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/print_upper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/sort_strip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/sum_of_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/total_nums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/unique_char.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignments/uppercase_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/discount.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/factors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/for_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/prime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/prime_1_100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/prime_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/show_grade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/show_result.py" beforeDir="false" afterPath="$PROJECT_DIR$/basics/show_result.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/total_nums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/total_nums_until_zero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basics/while_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_char_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/db_to_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/dbutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/delete_employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/employees.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/employees_summary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/insert_employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/list_employees.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/load_from_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/newemployees.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/salaries.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/tables.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/test_connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/update_employee.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dbapi/update_salaries.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/char_freq_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/dict_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/enumerate_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/iterate_str.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/list_comp_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/sort_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/total_marks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds/zip_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/count_upper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/filter_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/filter_uppercase.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/find_upper_pos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/first_positive.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/fun_as_object.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/fun_as_param.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/hints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/kw_args.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/local_function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/map_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/map_demo_v2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/pass_mutable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/pos_only.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/sorted_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/sorted_demo_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/sorted_demo_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish_all_msg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish_kw_only.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish_msg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish_msg_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/funs/wish_msg_name_def.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/bs_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/customers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/get_github_user_info.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/list_python_files.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/normalize_spaces.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/read_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/search_customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/student_marks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/students.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/thread_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/top_10_lang.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/write_names.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/factors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/str_funs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/use_num_funs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/use_str_funs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/account.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/course.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/doctors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/ex_demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/generator_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/call_mul_const.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/call_mul_methods.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/demo2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/demo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/demo4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/mi/demo5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/person.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/rect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/stack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/st/num_funs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_all.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_pkg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr.db" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ydh5Wo9eZJHcX7pGAVjvrm5Xa7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.area.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.show_result.executor": "Run",
+    "Python.wish.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.show_result">
+    <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/area.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/hello.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show_result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/show_result.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wish" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basics/wish.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.show_result" />
+        <item itemvalue="Python.area" />
+        <item itemvalue="Python.wish" />
+        <item itemvalue="Python.hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286b9d2d-0020-4dbf-8566-57db39f4464a" name="Changes" comment="" />
+      <created>1750170174985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750170174985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
