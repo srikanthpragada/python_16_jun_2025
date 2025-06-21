@@ -174,6 +174,7 @@
     "Python.for_demo.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.net_amount.executor": "Run",
+    "Python.perfect.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_v2.executor": "Run",
     "Python.print_table.executor": "Run",
@@ -194,8 +195,8 @@
       <recent name="C:\classroom\python\demo\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.sum_of_nums">
-    <configuration name="factors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.perfect">
+    <configuration name="perfect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,7 +209,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/factors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/perfect.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.perfect" />
         <item itemvalue="Python.sum_of_nums" />
         <item itemvalue="Python.prime_v2" />
         <item itemvalue="Python.prime" />
         <item itemvalue="Python.total_5_nums" />
-        <item itemvalue="Python.factors" />
       </list>
     </recent_temporary>
   </component>
