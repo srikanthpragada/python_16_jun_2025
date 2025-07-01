@@ -181,15 +181,21 @@
     "Python.distinct_chars.executor": "Run",
     "Python.enumerate_demo.executor": "Run",
     "Python.factors.executor": "Run",
+    "Python.find_diff_pos.executor": "Run",
     "Python.first3plusLast.executor": "Run",
     "Python.first_upper.executor": "Run",
     "Python.for_demo.executor": "Run",
+    "Python.fun_as_object.executor": "Run",
+    "Python.fun_as_object_2.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.isprime.executor": "Run",
+    "Python.kw_args.executor": "Run",
     "Python.list_of_digits.executor": "Run",
     "Python.max_name.executor": "Run",
     "Python.max_name_by_len.executor": "Run",
     "Python.net_amount.executor": "Run",
     "Python.num_freq.executor": "Run",
+    "Python.pass_fun.executor": "Run",
     "Python.perfect.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_v2.executor": "Run",
@@ -210,6 +216,8 @@
     "Python.unique_chars.executor": "Run",
     "Python.wish.executor": "Run",
     "Python.wish_all.executor": "Run",
+    "Python.wish_kw_args_only.executor": "Run",
+    "Python.wish_pos_args_only.executor": "Run",
     "Python.wish_with_2_params.executor": "Run",
     "Python.wish_with_def_args.executor": "Run",
     "Python.wish_with_param.executor": "Run",
@@ -230,8 +238,8 @@
       <recent name="C:\classroom\python\demo\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.wish_all">
-    <configuration name="count_upper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.pass_fun">
+    <configuration name="fun_as_object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -244,7 +252,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/count_upper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun_as_object.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,7 +261,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first_upper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fun_as_object_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -266,7 +274,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/first_upper.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun_as_object_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,7 +283,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wish_all" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pass_fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,7 +296,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_all.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/pass_fun.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -297,7 +305,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wish_with_2_params" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wish_kw_args_only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -310,7 +318,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_with_2_params.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_kw_args_only.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -319,7 +327,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wish_with_def_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="wish_pos_args_only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -332,7 +340,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_with_def_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_pos_args_only.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.wish_all" />
-        <item itemvalue="Python.first_upper" />
-        <item itemvalue="Python.count_upper" />
-        <item itemvalue="Python.wish_with_def_args" />
-        <item itemvalue="Python.wish_with_2_params" />
+        <item itemvalue="Python.pass_fun" />
+        <item itemvalue="Python.fun_as_object_2" />
+        <item itemvalue="Python.fun_as_object" />
+        <item itemvalue="Python.wish_pos_args_only" />
+        <item itemvalue="Python.wish_kw_args_only" />
       </list>
     </recent_temporary>
   </component>
