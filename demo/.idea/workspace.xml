@@ -181,6 +181,8 @@
     "Python.distinct_chars.executor": "Run",
     "Python.enumerate_demo.executor": "Run",
     "Python.factors.executor": "Run",
+    "Python.filter_demo.executor": "Run",
+    "Python.filter_demo_2.executor": "Run",
     "Python.find_diff_pos.executor": "Run",
     "Python.first3plusLast.executor": "Run",
     "Python.first_upper.executor": "Run",
@@ -188,9 +190,12 @@
     "Python.fun_as_object.executor": "Run",
     "Python.fun_as_object_2.executor": "Run",
     "Python.hello.executor": "Run",
+    "Python.hints_demo.executor": "Run",
     "Python.isprime.executor": "Run",
     "Python.kw_args.executor": "Run",
     "Python.list_of_digits.executor": "Run",
+    "Python.map_demo.executor": "Run",
+    "Python.map_total.executor": "Run",
     "Python.max_name.executor": "Run",
     "Python.max_name_by_len.executor": "Run",
     "Python.net_amount.executor": "Run",
@@ -210,6 +215,7 @@
     "Python.sort_names.executor": "Run",
     "Python.sort_nums.executor": "Run",
     "Python.sort_nums_in_str.executor": "Run",
+    "Python.sorted_demo.executor": "Run",
     "Python.squares_list.executor": "Run",
     "Python.sum_of_nums.executor": "Run",
     "Python.total_5_nums.executor": "Run",
@@ -238,8 +244,8 @@
       <recent name="C:\classroom\python\demo\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.pass_fun">
-    <configuration name="fun_as_object" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hints_demo">
+    <configuration name="filter_demo_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,7 +258,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun_as_object.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/filter_demo_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fun_as_object_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="hints_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +280,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/fun_as_object_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/hints_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,7 +289,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pass_fun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="map_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,7 +302,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/pass_fun.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/map_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +311,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wish_kw_args_only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="map_total" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,7 +324,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_kw_args_only.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/map_total.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wish_pos_args_only" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="sorted_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -340,7 +346,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/wish_pos_args_only.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/sorted_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -351,11 +357,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.pass_fun" />
-        <item itemvalue="Python.fun_as_object_2" />
-        <item itemvalue="Python.fun_as_object" />
-        <item itemvalue="Python.wish_pos_args_only" />
-        <item itemvalue="Python.wish_kw_args_only" />
+        <item itemvalue="Python.hints_demo" />
+        <item itemvalue="Python.sorted_demo" />
+        <item itemvalue="Python.map_total" />
+        <item itemvalue="Python.map_demo" />
+        <item itemvalue="Python.filter_demo_2" />
       </list>
     </recent_temporary>
   </component>

@@ -12,5 +12,4 @@ def math_operation(a, b, operation):
 
 math_operation(10, 20, add)
 math_operation(10, 20, mul)
-#math_operation(10,20, len)
-
+# math_operation(10,20, len)
