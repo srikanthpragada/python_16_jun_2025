@@ -180,9 +180,11 @@
     "Python.count_upper.executor": "Run",
     "Python.distinct_chars.executor": "Run",
     "Python.enumerate_demo.executor": "Run",
+    "Python.extract_upper.executor": "Run",
     "Python.factors.executor": "Run",
     "Python.filter_demo.executor": "Run",
     "Python.filter_demo_2.executor": "Run",
+    "Python.filter_lambda_demo.executor": "Run",
     "Python.find_diff_pos.executor": "Run",
     "Python.first3plusLast.executor": "Run",
     "Python.first_upper.executor": "Run",
@@ -195,12 +197,15 @@
     "Python.kw_args.executor": "Run",
     "Python.list_of_digits.executor": "Run",
     "Python.map_demo.executor": "Run",
+    "Python.map_lambda_demo.executor": "Run",
     "Python.map_total.executor": "Run",
     "Python.max_name.executor": "Run",
     "Python.max_name_by_len.executor": "Run",
     "Python.net_amount.executor": "Run",
     "Python.num_freq.executor": "Run",
     "Python.pass_fun.executor": "Run",
+    "Python.passing_args.executor": "Run",
+    "Python.passing_mutable_args.executor": "Run",
     "Python.perfect.executor": "Run",
     "Python.prime.executor": "Run",
     "Python.prime_v2.executor": "Run",
@@ -211,12 +216,14 @@
     "Python.rollno_total.executor": "Run",
     "Python.s_p_m.executor": "Run",
     "Python.show_result.executor": "Run",
+    "Python.sort_by_first_3.executor": "Run",
     "Python.sort_dict.executor": "Run",
     "Python.sort_names.executor": "Run",
     "Python.sort_nums.executor": "Run",
     "Python.sort_nums_in_str.executor": "Run",
     "Python.sorted_demo.executor": "Run",
     "Python.squares_list.executor": "Run",
+    "Python.str_starts_with_t_len_5.executor": "Run",
     "Python.sum_of_nums.executor": "Run",
     "Python.total_5_nums.executor": "Run",
     "Python.unique_chars.executor": "Run",
@@ -239,13 +246,13 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\classroom\python\demo\funs" />
-      <recent name="C:\classroom\python\demo\ds" />
       <recent name="C:\classroom\python\demo\assignments" />
+      <recent name="C:\classroom\python\demo\ds" />
       <recent name="C:\classroom\python\demo\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hints_demo">
-    <configuration name="filter_demo_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.passing_mutable_args">
+    <configuration name="extract_upper" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,11 +261,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/assignments" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/filter_demo_2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/assignments/extract_upper.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,7 +274,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hints_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="filter_lambda_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,7 +287,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/hints_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/filter_lambda_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,7 +296,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="map_lambda_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -302,7 +309,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/map_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/map_lambda_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +318,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="map_total" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="passing_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -324,7 +331,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/map_total.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/passing_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sorted_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="passing_mutable_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -346,7 +353,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/sorted_demo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/passing_mutable_args.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.hints_demo" />
-        <item itemvalue="Python.sorted_demo" />
-        <item itemvalue="Python.map_total" />
-        <item itemvalue="Python.map_demo" />
-        <item itemvalue="Python.filter_demo_2" />
+        <item itemvalue="Python.passing_mutable_args" />
+        <item itemvalue="Python.passing_args" />
+        <item itemvalue="Python.map_lambda_demo" />
+        <item itemvalue="Python.filter_lambda_demo" />
+        <item itemvalue="Python.extract_upper" />
       </list>
     </recent_temporary>
   </component>
