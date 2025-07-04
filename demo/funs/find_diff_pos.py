@@ -27,5 +27,5 @@ def diff_pos2(s1, s2):
 
     return min_len if len(s1) != len(s2) else -1
 
-print(diff_pos('abcd', 'abcd'))
 
+print(diff_pos('abcd', 'abcd'))
