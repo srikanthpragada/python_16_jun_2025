@@ -178,7 +178,9 @@
     "Python.comm_char_in_2_str_v3.executor": "Run",
     "Python.comm_char_in_2_str_v4.executor": "Run",
     "Python.count_upper.executor": "Run",
+    "Python.dept_summary.executor": "Run",
     "Python.distinct_chars.executor": "Run",
+    "Python.doc_demo.executor": "Run",
     "Python.enumerate_demo.executor": "Run",
     "Python.extract_upper.executor": "Run",
     "Python.factors.executor": "Run",
@@ -194,7 +196,10 @@
     "Python.hello.executor": "Run",
     "Python.hints_demo.executor": "Run",
     "Python.isprime.executor": "Run",
+    "Python.json_demo.executor": "Run",
+    "Python.json_read_demo.executor": "Run",
     "Python.kw_args.executor": "Run",
+    "Python.list_files.executor": "Run",
     "Python.list_of_digits.executor": "Run",
     "Python.map_demo.executor": "Run",
     "Python.map_lambda_demo.executor": "Run",
@@ -204,6 +209,7 @@
     "Python.nested_function.executor": "Run",
     "Python.net_amount.executor": "Run",
     "Python.num_freq.executor": "Run",
+    "Python.os_demo.executor": "Run",
     "Python.pass_fun.executor": "Run",
     "Python.passing_args.executor": "Run",
     "Python.passing_mutable_args.executor": "Run",
@@ -213,9 +219,11 @@
     "Python.print_str_rev.executor": "Run",
     "Python.print_table.executor": "Run",
     "Python.print_upper.executor": "Run",
+    "Python.read_names.executor": "Run",
     "Python.rollno_marks.executor": "Run",
     "Python.rollno_total.executor": "Run",
     "Python.s_p_m.executor": "Run",
+    "Python.search_file.executor": "Run",
     "Python.show_result.executor": "Run",
     "Python.sort_by_first_3.executor": "Run",
     "Python.sort_dict.executor": "Run",
@@ -228,6 +236,7 @@
     "Python.sum_of_nums.executor": "Run",
     "Python.test_mathfuns.executor": "Run",
     "Python.testmath.executor": "Run",
+    "Python.testst.executor": "Run",
     "Python.total_5_nums.executor": "Run",
     "Python.unique_chars.executor": "Run",
     "Python.wish.executor": "Run",
@@ -237,25 +246,27 @@
     "Python.wish_with_2_params.executor": "Run",
     "Python.wish_with_def_args.executor": "Run",
     "Python.wish_with_param.executor": "Run",
+    "Python.write_names.executor": "Run",
     "Python.zip_demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/classroom/python/demo/funs",
+    "last_opened_file_path": "C:/classroom/python/demo/libdemo",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\classroom\python\demo\libdemo" />
+      <recent name="C:\classroom\python\demo\funs\mods" />
       <recent name="C:\classroom\python\demo\funs" />
       <recent name="C:\classroom\python\demo\assignments" />
       <recent name="C:\classroom\python\demo\ds" />
-      <recent name="C:\classroom\python\demo\basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.testmath">
-    <configuration name="nested_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.list_files">
+    <configuration name="dept_summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,11 +275,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/nested_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/dept_summary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +288,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="passing_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="json_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -286,11 +297,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/passing_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/json_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +310,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="passing_mutable_args" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="json_read_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,11 +319,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/passing_mutable_args.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/json_read_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,7 +332,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_mathfuns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs/mods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/mods/test_mathfuns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_files.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -343,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testmath" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="os_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -352,11 +363,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/test/testmath.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/os_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -367,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.testmath" />
-        <item itemvalue="Python.test_mathfuns" />
-        <item itemvalue="Python.nested_function" />
-        <item itemvalue="Python.passing_mutable_args" />
-        <item itemvalue="Python.passing_args" />
+        <item itemvalue="Python.list_files" />
+        <item itemvalue="Python.os_demo" />
+        <item itemvalue="Python.json_read_demo" />
+        <item itemvalue="Python.json_demo" />
+        <item itemvalue="Python.dept_summary" />
       </list>
     </recent_temporary>
   </component>
