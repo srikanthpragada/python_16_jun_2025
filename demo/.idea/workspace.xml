@@ -178,6 +178,7 @@
     "Python.comm_char_in_2_str_v3.executor": "Run",
     "Python.comm_char_in_2_str_v4.executor": "Run",
     "Python.count_upper.executor": "Run",
+    "Python.counter.executor": "Run",
     "Python.dept_summary.executor": "Run",
     "Python.distinct_chars.executor": "Run",
     "Python.doc_demo.executor": "Run",
@@ -265,8 +266,8 @@
       <recent name="C:\classroom\python\demo\ds" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.list_files">
-    <configuration name="dept_summary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.counter">
+    <configuration name="counter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,11 +276,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/dept_summary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -378,11 +379,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.counter" />
         <item itemvalue="Python.list_files" />
         <item itemvalue="Python.os_demo" />
         <item itemvalue="Python.json_read_demo" />
         <item itemvalue="Python.json_demo" />
-        <item itemvalue="Python.dept_summary" />
       </list>
     </recent_temporary>
   </component>
