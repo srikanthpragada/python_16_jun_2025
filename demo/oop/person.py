@@ -22,6 +22,15 @@ p3 = Person("Gosling", "gosling@aws.com")
 # print(str(p1))
 # print(p1.__str__())
 
-print(p1 == p2)  # p1.__eq__(p2)
-print(p1 > p3)
-print(p1 < p3)
+# print(p1 == p2)  # p1.__eq__(p2)
+# print(p1 > p3)
+# print(p1 < p3)
+
+people = [ p1, Person("Larry", "larry@gmail.com"), p3]
+
+for p in sorted(people):
+    print(p)
+
+
+
+
