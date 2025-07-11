@@ -14,6 +14,7 @@ class Stack:
     def peek(self):
         return self.data[-1]
 
+    @property
     def length(self):
         return len(self.data)
 
@@ -23,6 +24,9 @@ s.push("Pqr")
 s.push("Xyz")
 print(s.pop())
 print(s.peek())
+print(s.length)
+
+
 
 
 
