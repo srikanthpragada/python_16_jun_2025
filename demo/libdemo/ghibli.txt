@@ -1,0 +1,5 @@
+You might have noticed that the internet is flooded with people sharing Ghibli-style images. People have transformed almost anything into a Ghibli-style photos -- from their own portraits and family pictures to famous movies and memes. OpenAI's recent addition of image generation in ChatGPT has led to many users trying to create Studio Ghibli-style images. However, the tool is reportedly struggling to accurately create Ghibli-style images from photos with human faces, which has frustrated some users.
+
+OpenAI CEO Sam Altman has acknowledged the unexpected popularity of this new feature, causing delays in making it available to free users. "Images in chatgpt are wayyyy more popular than we expected (and we had pretty high expectations). rollout to our free tier is unfortunately going to be delayed for awhile," Altman wrote on Elon Musk-owned social media platform X.
+
+According to reports, some ChatGPT users began receiving an error message saying the tool can't generate Ghibli-style illustrations.
