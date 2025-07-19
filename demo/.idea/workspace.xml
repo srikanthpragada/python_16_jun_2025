@@ -208,6 +208,7 @@
     "Python.json_demo.executor": "Run",
     "Python.json_read_demo.executor": "Run",
     "Python.kw_args.executor": "Run",
+    "Python.list_customer_mobiles.executor": "Run",
     "Python.list_files.executor": "Run",
     "Python.list_of_digits.executor": "Run",
     "Python.list_python_files.executor": "Run",
@@ -218,6 +219,7 @@
     "Python.max_name_by_len.executor": "Run",
     "Python.nested_function.executor": "Run",
     "Python.net_amount.executor": "Run",
+    "Python.normalize_spaces.executor": "Run",
     "Python.num_freq.executor": "Run",
     "Python.os_demo.executor": "Run",
     "Python.pass_fun.executor": "Run",
@@ -229,6 +231,7 @@
     "Python.prime_v2.executor": "Run",
     "Python.print_str_rev.executor": "Run",
     "Python.print_table.executor": "Run",
+    "Python.print_thread.executor": "Run",
     "Python.print_upper.executor": "Run",
     "Python.private_members.executor": "Run",
     "Python.read_names.executor": "Run",
@@ -252,6 +255,7 @@
     "Python.test_mathfuns.executor": "Run",
     "Python.testmath.executor": "Run",
     "Python.testst.executor": "Run",
+    "Python.thread_demo.executor": "Run",
     "Python.total_5_nums.executor": "Run",
     "Python.unique_chars.executor": "Run",
     "Python.wish.executor": "Run",
@@ -282,8 +286,8 @@
       <recent name="C:\classroom\python\demo\assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.remove_blank_lines">
-    <configuration name="list_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.print_thread">
+    <configuration name="list_customer_mobiles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,7 +300,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_customer_mobiles.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_python_files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="normalize_spaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -318,7 +322,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_python_files.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/normalize_spaces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="print_thread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/print_thread.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="word_freq" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="thread_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -362,29 +388,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/word_freq.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="write_names_v2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="demo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/write_names_v2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/thread_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,11 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_thread" />
+        <item itemvalue="Python.thread_demo" />
+        <item itemvalue="Python.normalize_spaces" />
+        <item itemvalue="Python.list_customer_mobiles" />
         <item itemvalue="Python.remove_blank_lines" />
-        <item itemvalue="Python.word_freq" />
-        <item itemvalue="Python.list_python_files" />
-        <item itemvalue="Python.list_files" />
-        <item itemvalue="Python.write_names_v2" />
       </list>
     </recent_temporary>
   </component>
