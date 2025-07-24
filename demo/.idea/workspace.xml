@@ -171,6 +171,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.account.executor": "Run",
     "Python.area.executor": "Run",
+    "Python.bs_demo.executor": "Run",
     "Python.call_mul_methods.executor": "Run",
     "Python.char_freq.executor": "Run",
     "Python.char_freq_dict.executor": "Run",
@@ -216,6 +217,10 @@
     "Python.list_of_digits.executor": "Run",
     "Python.list_players.executor": "Run",
     "Python.list_python_files.executor": "Run",
+    "Python.list_repos.executor": "Run",
+    "Python.list_st_links.executor": "Run",
+    "Python.list_top_10_langs.executor": "Run",
+    "Python.list_w3c_links.executor": "Run",
     "Python.map_demo.executor": "Run",
     "Python.map_lambda_demo.executor": "Run",
     "Python.map_total.executor": "Run",
@@ -256,6 +261,7 @@
     "Python.static_members.executor": "Run",
     "Python.str_starts_with_t_len_5.executor": "Run",
     "Python.sum_of_nums.executor": "Run",
+    "Python.test_connection.executor": "Run",
     "Python.test_mathfuns.executor": "Run",
     "Python.testmath.executor": "Run",
     "Python.testst.executor": "Run",
@@ -290,8 +296,8 @@
       <recent name="C:\classroom\python\demo\assignments" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.inr_to_other">
-    <configuration name="get_github_user_info" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.list_employees">
+    <configuration name="list_employees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,11 +306,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dbapi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/get_github_user_info.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbapi/list_employees.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,7 +319,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inr_to_other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_st_links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -326,7 +332,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/inr_to_other.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_st_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -335,7 +341,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="inr_to_usd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_top_10_langs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -348,7 +354,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/inr_to_usd.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_top_10_langs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -357,7 +363,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_players" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_w3c_links" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -370,7 +376,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_players.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_w3c_links.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -379,7 +385,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="print_thread" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_connection" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="demo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -388,11 +394,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/dbapi" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/print_thread.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dbapi/test_connection.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,11 +409,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.inr_to_other" />
-        <item itemvalue="Python.inr_to_usd" />
-        <item itemvalue="Python.get_github_user_info" />
-        <item itemvalue="Python.list_players" />
-        <item itemvalue="Python.print_thread" />
+        <item itemvalue="Python.list_employees" />
+        <item itemvalue="Python.test_connection" />
+        <item itemvalue="Python.list_st_links" />
+        <item itemvalue="Python.list_top_10_langs" />
+        <item itemvalue="Python.list_w3c_links" />
       </list>
     </recent_temporary>
   </component>
